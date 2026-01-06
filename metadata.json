@@ -1,0 +1,5 @@
+{
+  "name": "GitGemini",
+  "description": "A high-fidelity GitHub UI clone powered by Gemini for intelligent repository analysis, code summarization, and interactive file exploration.",
+  "requestFramePermissions": []
+}
